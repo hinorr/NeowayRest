@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Hello world python program
+# Automacao em Rest Neoway python program
 
 import json, requests
 
